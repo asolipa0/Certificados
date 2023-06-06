@@ -3,8 +3,6 @@
 ![Imagem de resultado do projeto](./Links-Certificados/assets/Links.png)
 <br>
 
-> 🚀 <a href="#">Acesse aqui</a>
-
 ## 💻 Sobre
 
 Página de links, na propósta de ser usada para cosulta de certificações, feita para dilvulgar as certificações realizados peloo aluno <a href="https://github.com/asolipa0">António Solipa</a>, atraves do conteudo apredido na Escola Profisional do Fundão.
